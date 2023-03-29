@@ -41,7 +41,6 @@ function App() {
     setSearchQuery(e.target.value);
   }
   function handleMovieDetail(obj){
-    console.log(obj)
   }
   return (
     <>
